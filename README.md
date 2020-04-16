@@ -1,1 +1,2 @@
-# simple-project
+# Project C++
+

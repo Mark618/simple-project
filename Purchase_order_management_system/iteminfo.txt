@@ -1,0 +1,3 @@
+I303	tea	0	s404	
+I302	Unagi	0	s401	
+I301	Rice	0	s401	

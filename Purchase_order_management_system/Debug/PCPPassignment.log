@@ -1,0 +1,7 @@
+﻿  PCPPassignment.cpp
+C:\Users\USeR\Documents\PCPP\PCPPassignment\PCPPassignment.cpp(29,9): warning C4101: 'itemprice': unreferenced local variable
+C:\Users\USeR\Documents\PCPP\PCPPassignment\linkedlist.h(135): warning C4715: 'linkedlist::checkpassword': not all control paths return a value
+C:\Users\USeR\Documents\PCPP\PCPPassignment\linkedlist.h(160): warning C4715: 'linkedlist::getuserid': not all control paths return a value
+C:\Users\USeR\Documents\PCPP\PCPPassignment\linkedlist.h(196): warning C4715: 'linkedlist::getusertype': not all control paths return a value
+C:\Users\USeR\Documents\PCPP\PCPPassignment\linkedlist.h(280): warning C4715: 'linkedlist::searchadmin': not all control paths return a value
+  PCPPassignment.vcxproj -> C:\Users\USeR\Documents\PCPP\PCPPassignment\Debug\PCPPassignment.exe

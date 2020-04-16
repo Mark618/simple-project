@@ -1,2 +1,3 @@
-# Project C++
+# C++ project
+Use linked list
 
